@@ -7,7 +7,3 @@ TTS:
   SPEED: 1.0
   PITCH: 1.0
   ENERGY: 1.0
-
-SAVEPATH:
-  VIDEO_SAVE_PATH: './file/output/video/'
-  AUDIO_SAVE_PATH: './file/output/audio/'
